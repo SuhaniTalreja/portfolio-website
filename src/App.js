@@ -1,7 +1,7 @@
 import './App.css';
 import 'typeface-poppins';
 import styled from '@emotion/styled';
-import Navbar from './Components/Navbar';
+import Navbar from './Components/Navbar'; 
 import { Box } from '@mui/material';
 import About from './Components/About';
 import Skills from './Components/Skills';
