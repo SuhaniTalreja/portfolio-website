@@ -46,8 +46,3 @@
   color:#fd8f52 !important;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-  background: linear-gradient(to bottom,  rgba(253, 143, 82, 0.5), rgba(255, 184, 113, 0.5), rgba(255, 220, 162, 0.5));
-}
