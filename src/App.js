@@ -14,7 +14,6 @@ import Footer from './Components/Footer';
 
 const StyledComponent = styled(Box)`
   font-family: 'Poppins';
-  background: linear-gradient(to bottom,  rgba(253, 143, 82, 0.5), rgba(255, 184, 113, 0.5), rgba(255, 220, 162, 0.5));
   width:100%;
   `
 
