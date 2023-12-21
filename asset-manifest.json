@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.e64d1312.css",
-    "main.js": "/portfolio-website/static/js/main.5e1034f2.js",
+    "main.css": "/portfolio-website/static/css/main.4ed9023d.css",
+    "main.js": "/portfolio-website/static/js/main.e733d256.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio-website/static/js/787.7da95b79.chunk.js",
     "static/media/poppins-latin-300italic.woff": "/portfolio-website/static/media/poppins-latin-300italic.aea0270e651bfbf3428e.woff",
     "static/media/poppins-latin-200italic.woff": "/portfolio-website/static/media/poppins-latin-200italic.b12214af6124a2b0f2e6.woff",
@@ -40,12 +40,12 @@
     "static/media/poppins-latin-900.woff2": "/portfolio-website/static/media/poppins-latin-900.52f874769ced349a3130.woff2",
     "static/media/poppins-latin-100.woff2": "/portfolio-website/static/media/poppins-latin-100.ab66112cac2ca46d6cf8.woff2",
     "index.html": "/portfolio-website/index.html",
-    "main.e64d1312.css.map": "/portfolio-website/static/css/main.e64d1312.css.map",
-    "main.5e1034f2.js.map": "/portfolio-website/static/js/main.5e1034f2.js.map",
+    "main.4ed9023d.css.map": "/portfolio-website/static/css/main.4ed9023d.css.map",
+    "main.e733d256.js.map": "/portfolio-website/static/js/main.e733d256.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio-website/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e64d1312.css",
-    "static/js/main.5e1034f2.js"
+    "static/css/main.4ed9023d.css",
+    "static/js/main.e733d256.js"
   ]
 }
