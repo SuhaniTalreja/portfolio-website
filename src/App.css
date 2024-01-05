@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin:0px;
 }
 
 .App-logo {
@@ -44,5 +45,11 @@
 }
 .basic-menu{
   color:#fd8f52 !important;
+}
+
+#root{
+  width:100%;
+  margin:0;
+  padding:0;
 }
 
